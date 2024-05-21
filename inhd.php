@@ -241,7 +241,7 @@ $q1="select * from chitietdonhang inner join sach on chitietdonhang.masach = sac
       
     </tr>
   </table>
-  <div class="footer-right"> Tp.HCM, ngày ..... tháng ..... năm .....<br/></br>
+  <div class="footer-right"> Hà Nội, ngày ..... tháng ..... năm .....<br/></br>
       Người giao hàng</br></br></br></br>
       <?php echo $tenndd ?> </div>
 </div>
