@@ -174,28 +174,7 @@
               <marquee style="width:500px; color: blue; font-size:20px;"> 𝙷𝚎𝚕𝚕𝚘! 𝚆𝚎𝚕𝚌𝚘𝚖 Admin!!</marquee>
            
             </div>
-            <div class="az-content-header-right">
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày bắt đầu</label>
-                  <h6>10/03/2024</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày kết thúc</label>
-                  <h6>01/06/2024</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Người thực hiện</label>
-                  <h6>Đỗ Quốc Ca </h6>
-                  
-                </div><!-- media-body -->
-              </div><!-- media -->
-              
-            </div>
+            
           </div><!-- az-dashboard-one-title -->
 
          
@@ -298,7 +277,7 @@
 
     <div class="az-footer ht-40" style="background-color:#C9F7E0">
       <div class="container ht-100p pd-t-0-f">
-        <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © KHÓA LUẬN TỐT NGHIỆP</span>
+        <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © Nhóm 15 - TTCN</span>
        
       </div><!-- container -->
     </div>
