@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -39,7 +35,6 @@ and open the template in the editor.
                     <TD style="color:darkgreen; width: 50px;"><b><u>Số lượng</u></b></TD>
                     <TD style="color:darkgreen; width: 70px;"><b><u>Giá bán</u></b></TD>
                     <TD style="color:darkgreen; width: 100px;"><b><u>Hình ảnh</u></b></TD>
-                    <TD style="color:darkgreen; width: 50px;"><b><u>Nỗi bật</u></b></TD>
                     <TD style="color:darkgreen; width: 50px;"><b><u>Cập nhật</u></b></TD>
                     <TD style="color:darkgreen; width: 50px;"><b><u>Xóa</u></b></TD>
                     </tr>
@@ -70,7 +65,7 @@ and open the template in the editor.
                                                     <td>'.$row['soluong'].'</td>
                                                     <td>'.$row['gia'].'</td>';
                                             echo "<td><img src='$row[hinhanh]' width='100px'/>";
-                                            echo'   <td>'.$row['noibat'].'</td>';
+                                    
                                             echo'   <td><a href=suakho.php?sdm='.$row['madm'].'&sid='.$row['masach'].'&snhaxb='.$row['manxb'].'&sl='.$row['soluong'].'>Sửa</td>';
                                             echo'   <td><a href=xulixoasach.php?sid='.$row['masach'].'>Xóa</td>
                                                     

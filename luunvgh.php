@@ -2,10 +2,6 @@
            session_start();    
                         $maadh= $_REQUEST['madon'];
 
-                 
-                       
-                        
-                       
                         $link = mysqli_connect("localhost","root") or die ("khong the ket noi");
             mysqli_set_charset($link, 'UTF8');
             mysqli_select_db($link,"lagezrwa_sach");

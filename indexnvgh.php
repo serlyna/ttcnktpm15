@@ -15,24 +15,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Twitter -->
-    <!-- <meta name="twitter:site" content="@bootstrapdash">
-    <meta name="twitter:creator" content="@bootstrapdash">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Azia">
-    <meta name="twitter:description" content="Responsive Bootstrap 4 Dashboard Template">
-    <meta name="twitter:image" content="https://www.bootstrapdash.com/azia/img/azia-social.png"> -->
-
-    <!-- Facebook -->
-    <!-- <meta property="og:url" content="https://www.bootstrapdash.com/azia">
-    <meta property="og:title" content="Azia">
-    <meta property="og:description" content="Responsive Bootstrap 4 Dashboard Template">
-
-    <meta property="og:image" content="https://www.bootstrapdash.com/azia/img/azia-social.png">
-    <meta property="og:image:secure_url" content="https://www.bootstrapdash.com/azia/img/azia-social.png">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="600"> -->
+   
 
     <!-- Meta -->
     <meta name="description" content="Responsive Bootstrap 4 Dashboard Template">
@@ -164,28 +147,7 @@
               <marquee style="width:500px; color: blue; font-size:20px;"> 𝙷𝚎𝚕𝚕𝚘! 𝚆𝚎𝚕𝚌𝚘𝚖 Nhân viên giao hàng!!</marquee>
            
             </div>
-            <div class="az-content-header-right">
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày bắt đầu</label>
-                  <h6>09/01/2022</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày kết thúc</label>
-                  <h6>01/06/2022</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Người thực hiện</label>
-                  <h6>Minh Thương & Hồ Phương</h6>
-                  
-                </div><!-- media-body -->
-              </div><!-- media -->
-              
-            </div>
+           
           </div><!-- az-dashboard-one-title -->
 
          
