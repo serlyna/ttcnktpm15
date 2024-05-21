@@ -459,7 +459,7 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <p class="copyright__text text-white"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> Thực tập chuyên ngành  | Đỗ Quốc Ca </a>
+                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> Thực tập chuyên ngành </a>
                           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                       </p>
                   </div>
