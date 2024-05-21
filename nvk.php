@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,9 +37,7 @@
     <!-- Meta -->
     <meta name="description" content="">
     <meta name="author" content="BootstrapDash">
-
     <title>Nhân viên kho </title>
-
     <!-- vendor css -->
     <link href="./lib/fontawesome-free/css/all.min.css" rel="stylesheet">
     <link href="./lib/ionicons/css/ionicons.min.css" rel="stylesheet">
@@ -92,8 +89,7 @@
 
               <div class="az-menu-sub">
                 <div class="container">
-                  <div>
-                  
+                  <div/>
                   </div>
                 </div><!-- container -->
               </div>
@@ -164,20 +160,16 @@
             </div>
                 <span>NHÂN VIÊN KHO </span>
               </div><!-- az-header-profile -->
-
-           
               <a href="xulidangxuat.php" class="dropdown-item"><i class="typcn typcn-power-outline"></i> Sign Out</a>
             </div><!-- dropdown-menu -->
           </div>
         </div><!-- az-header-right -->
       </div><!-- container -->
     </div><!-- az-header -->
-
   
      <!-- container -->
     </div>
    <!-- az-footer -->
-
 
     <script src="./lib/jquery/jquery.min.js"></script>
     <script src="./lib/bootstrap/js/bootstrap.bundle.min.js"></script>
