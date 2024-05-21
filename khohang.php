@@ -107,7 +107,6 @@ and open the template in the editor.
                     <TD style="color:black; width: 150px;"><b>TÊN TÁC GIẢ</b></TD>
                     <TD style="color:black; width: 150px;"><b>DANH MỤC</b></TD>
                     <TD style="color:black; width: 150px;"><b>TÊN NXB</b></TD>
-                    <TD style="color:black; width: 80px;"><b>NĂM XB</b></TD>
                     <TD style="color:black; width: 70px;"><b>SL</b></TD>
                     <TD style="color:black; width: 90px;"><b>GIÁ BÁN</b></TD>
                     <TD style="color:black; width: 150px;"><b>IMAGE</b></TD>
@@ -136,7 +135,6 @@ and open the template in the editor.
                                                     <td>'.$row['tentacgia'].'</td>
                                                     <td>'.$row['tendm'].'</td>
                                                     <td>'.$row['tennxb'].'</td>
-                                                    <td>'.$row['namxb'].'</td>
                                                     <td>'.$row['soluong'].'cuốn</td>
                                                     <td>'.$row['gia'].'VNĐ</td>';
                                             echo "<td><img src='$row[hinhanh]' width='100px'/>";
