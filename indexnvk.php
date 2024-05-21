@@ -172,28 +172,7 @@
               <marquee style="width:500px; color: blue; font-size:20px;"> 𝙷𝚎𝚕𝚕𝚘! 𝚆𝚎𝚕𝚌𝚘𝚖 Nhân viên kho!!</marquee>
            
             </div>
-            <div class="az-content-header-right">
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày bắt đầu</label>
-                  <h6>10/03/2024</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Ngày kết thúc</label>
-                  <h6>01/06/2024</h6>
-                </div><!-- media-body -->
-              </div><!-- media -->
-              <div class="media">
-                <div class="media-body">
-                  <label>Người thực hiện</label>
-                  <h6>Đỗ Quốc Ca</h6>
-                  
-                </div><!-- media-body -->
-              </div><!-- media -->
-              
-            </div>
+            
           </div><!-- az-dashboard-one-title -->
 
          
@@ -275,6 +254,9 @@
                     </div><!-- card-header -->
                 
                      
+
+
+                    
                     </div>
                     </div>
                   </div>
