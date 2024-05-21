@@ -7,7 +7,7 @@
     <meta name="keywords" content="Cake, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>BOOK | KLTN</title>
+    <title>BOOK </title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap"
@@ -419,9 +419,9 @@
                     <div class="map__inner">
                         <h6>North Hills</h6>
                         <ul>
-                            <li>12 Nguyễn Văn Bảo, Phường 4, Gò Vấp</li>
+                            <li>296 , Minh Khai , Bắc Từ Liêm , Hà Nội</li>
                             <li>northhills@gmail.com</li>
-                            <li>1900-1098</li>
+                            <li>2000 - 2024</li>
                         </ul>
                     </div>
                 </div>
@@ -463,7 +463,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__newslatter">
-                        <h6>12 Nguyễn Văn Bảo</h6>
+                        <h6>296 , Minh Khai</h6>
                         <p>Thắc mắc liên hệ.</p>
                         <form action="#">
                             <input type="text" placeholder="Email">
